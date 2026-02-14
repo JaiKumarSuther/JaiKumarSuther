@@ -99,11 +99,11 @@ When I'm not coding, I enjoy staying curious about new tools and frameworks. I b
 </td>
 <td width="42%" align="center">
 
-<!-- Animated coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="240" alt="Coding"/>
+<!-- Animated coding visual -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="200" alt="Coding"/>
 
 <br/>
-<img src="assets/glow-orb.svg" alt="Glow" width="64"/>
+<img src="assets/floating-dots.svg" alt="" width="140"/>
 
 </td>
 </tr>
@@ -303,23 +303,6 @@ Open source, collaboration, and helping others learn are values I care about in 
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212267470-438c8738-e8ba-4a13-b54d-5f37088c10ad.gif" width="32" height="32"/> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JaiKumarSuther&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiKumarSuther&layout=compact&theme=react&hide_border=false" alt="Top Languages" height="180"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></div>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="32" height="32"/> GitHub Activity
 
 <div align="center">
@@ -381,37 +364,56 @@ Open source, collaboration, and helping others learn are values I care about in 
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="32" height="32"/> Inspirational Quote
-
-<p align="center">
-
-> <em>"The best way to predict the future is to invent it."</em> — Alan Kay
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="2"/>
-<img src="assets/glow-orb.svg" width="24" height="24"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="2"/>
-
-</p>
-
----
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></div>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212267470-438c8738-e8ba-4a13-b54d-5f37088c10ad.gif" width="32" height="32"/> Quick Links & Resources
 
-<p align="center"><em>Jump to what matters</em></p>
+<p align="center">
+  <img src="assets/floating-dots.svg" width="100"/>
+  <br/>
+  <em>Jump to what matters</em>
+  <br/>
+  <img src="assets/gradient-line.svg" alt="" width="40%" height="3"/>
+</p>
 
-| Section | Description |
-|:-------:|:------------|
-| [About Me](#-about-me) | Who I am and what I'm working on |
-| [Featured Projects](#-featured-projects) | My best and recent projects |
-| [Tech Stack](#-tech-stack) | Technologies and tools I use |
-| [GitHub Stats](#-github-stats) | Contribution and activity metrics |
-| [Let's Connect](#-lets-connect) | How to get in touch |
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="20" height="20"/>
+**[About Me](#-about-me)**  
+<sub>Who I am and what I'm working on</sub>
+
+</td>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212267470-438c8738-e8ba-4a13-b54d-5f37088c10ad.gif" width="20" height="20"/>
+**[Featured Projects](#-featured-projects)**  
+<sub>My best and recent projects</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="20" height="20"/>
+**[Tech Stack](#-tech-stack)**  
+<sub>Technologies and tools I use</sub>
+
+</td>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="20" height="20"/>
+**[Let's Connect](#-lets-connect)**  
+<sub>How to get in touch</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center"><img src="assets/floating-dots.svg" width="80"/></p>
 
 <br/>
 
@@ -419,23 +421,23 @@ Open source, collaboration, and helping others learn are values I care about in 
 <tr>
 <td align="center" width="33%">
 
-**💼 Work**
-
-Open to full-stack roles, freelance projects, and long-term collaborations.
-
-</td>
-<td align="center" width="33%">
-
-**🤝 Open Source**
-
-Happy to contribute to and collaborate on open source projects.
+<img src="https://img.shields.io/badge/Work-61DAFB?style=flat-square&labelColor=0D1117" alt="Work"/>  
+<br/>  
+**💼** Open to full-stack roles, freelance projects, and long-term collaborations.
 
 </td>
 <td align="center" width="33%">
 
-**📧 Inbox**
+<img src="https://img.shields.io/badge/Open_Source-8B5CF6?style=flat-square&labelColor=0D1117" alt="Open Source"/>  
+<br/>  
+**🤝** Happy to contribute to and collaborate on open source projects.
 
-Always responsive. Drop a message for questions or opportunities.
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Inbox-7C3AED?style=flat-square&labelColor=0D1117" alt="Inbox"/>  
+<br/>  
+**📧** Always responsive. Drop a message for questions or opportunities.
 
 </td>
 </tr>
