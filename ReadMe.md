@@ -484,11 +484,6 @@ I'm always open to discussing new projects, collaboration opportunities, or just
 
 <br/>
 
-<p>
-  <img src="assets/floating-dots.svg" width="100"/>
-  <br/>
-  <sub>Made with ❤️ and lots of ☕</sub>
-</p>
 
 </div>
 
