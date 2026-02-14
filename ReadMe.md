@@ -1,13 +1,17 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:7C3AED&height=180&section=header&text=Jai%20Kumar&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" alt="Header"/>
+<!-- Animated header - scaleIn + twinkling combo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:8B5CF6,100:7C3AED&height=200&section=header&text=Jai%20Kumar&fontSize=48&fontColor=fff&animation=scaleIn&fontAlignY=35&desc=Full-Stack%20Developer&descSize=20&descAlignY=55" width="100%" alt="Header"/>
 
-<!-- Wave animation + intro -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="36" height="36"/> **Hi, I'm Jai Kumar**
-
-<!-- Tagline - static so it always loads (typing SVGs often fail on GitHub) -->
-<p><strong>Full-Stack Developer</strong> · React & Next.js · Node.js & TypeScript</p>
+<!-- Intro with multiple animations -->
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24" height="24"/>
+  <strong>Hi, I'm Jai Kumar</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24" height="24"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="40" height="40"/>
+</p>
+<p>React · Next.js · Node.js · TypeScript</p>
 
 <!-- Social badges -->
 <p>
@@ -23,6 +27,10 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60%" height="2"/>
+</p>
 
 ## 👋 About Me
 
@@ -49,7 +57,11 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ---
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></p>
+
 ## 🚀 Featured Projects
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212267470-438c8738-e8ba-4a13-b54d-5f37088c10ad.gif" width="32" height="32"/> <i>Turning ideas into clean, functional software</i></p>
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -62,7 +74,11 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ---
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></p>
+
 ## 💻 Tech Stack
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="28" height="28"/> <i>Tools I build with</i></p>
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -149,18 +165,28 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ## 📊 GitHub Stats & Activity
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></p>
+
 <div align="center">
 
-
+<a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Stats"><img src="./profile/stats.svg" height="165" alt="Stats"/></a>
 <a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Streak"><img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/></a>
-
+<a href="https://github.com/JaiKumarSuther?tab=repositories" target="_blank" rel="noopener noreferrer" title="Top Langs"><img src="./profile/top-langs.svg" height="165" alt="Top Langs"/></a>
 
 </div>
 
+<div align="center">
 
-<div align="center"><sub>Run <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Actions → Update README cards</a> once to generate Stats & Top Langs. Cards update daily.</sub></div>
+<a href="https://github.com/JaiKumarSuther?tab=achievements" target="_blank" rel="noopener noreferrer" title="Trophies"><img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/></a>
 
-<!-- Activity graph (contribution graph style) -->
+</div>
+
+<!-- Contribution snake - animated -->
+<div align="center">
+  <img src="./output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%"/>
+</div>
+
+<!-- Activity graph -->
 <div align="center">
 
 ### 📈 Contribution graph
@@ -169,20 +195,16 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 </div>
 
-<div align="center">
-
-<sub>Add a contribution snake with <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">platane/snk</a></sub>
-
-</div>
+<div align="center"><sub>Run <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Actions → Update README cards</a> & <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Generate Snake</a> once. Updates daily.</sub></div>
 
 ---
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></p>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-
-Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel free to reach out!
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="24" height="24"/> Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel free to reach out! <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="24" height="24"/>
 </p>
 
 <p align="center">
@@ -195,12 +217,14 @@ Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel fr
 <div align="center">
 
 <!-- Visitor count -->
-<img src="https://komarev.com/ghpvc/?username=JaiKumarSuther&color=0&label=Profile%20views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=JaiKumarSuther&color=7C3AED&label=Profile+views&style=flat-square" alt="Profile views"/>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:7C3AED&height=80&section=footer&fontSize=14&fontColor=fff" width="100%" alt="Footer"/>
-
-<a href="https://github.com/JaiKumarSuther" target="_blank" rel="noopener noreferrer"><b>Thanks for visiting my profile!</b></a> ⭐
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="28" height="28"/>
+  <a href="https://github.com/JaiKumarSuther" target="_blank" rel="noopener noreferrer"><b>Thanks for visiting my profile!</b></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="28" height="28"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:8B5CF6,100:7C3AED&height=100&section=footer&text=Have%20a%20great%20day!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
