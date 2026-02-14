@@ -73,10 +73,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="32" height="32"/> About Me
 
-<table>
-<tr>
-<td width="58%">
-
 ### Who I Am
 
 I'm a **developer** who loves building full-stack web applications and learning new technologies. I work across the stack—from React and Next.js on the frontend to Node.js and various databases on the backend—and enjoy turning ideas into clean, functional software.
@@ -95,19 +91,6 @@ I'm a **developer** who loves building full-stack web applications and learning 
 ### Beyond Code
 
 When I'm not coding, I enjoy staying curious about new tools and frameworks. I believe in writing maintainable code, learning from the community, and building things that make a difference.
-
-</td>
-<td width="42%" align="center">
-
-<!-- Animated coding visual -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="200" alt="Coding"/>
-
-<br/>
-<img src="assets/floating-dots.svg" alt="" width="140"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
