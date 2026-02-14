@@ -6,15 +6,15 @@
 <!-- Wave animation + intro -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="36" height="36"/> **Hi, I'm Jai Kumar**
 
-<!-- Typing animation - cycles through taglines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/demolab/demo?font=Fira+Code&weight=600&size=22&duration=3500&pause=2000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Node.js+%7C+TypeScript+%7C+Web+Apps;Building+clean%2C+functional+software)](https://github.com/JaiKumarSuther)
+<!-- Tagline - static so it always loads (typing SVGs often fail on GitHub) -->
+<p><strong>Full-Stack Developer</strong> · React & Next.js · Node.js & TypeScript</p>
 
 <!-- Social badges -->
 <p>
-  <a href="https://github.com/JaiKumarSuther"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/jai-kumar-7462a1260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/20885318"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-  <a href="mailto:iamjaisuthar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/JaiKumarSuther" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/jai-kumar-7462a1260/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/20885318" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:iamjaisuthar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- Animated divider -->
@@ -35,7 +35,7 @@ I'm a **developer** who loves building full-stack web applications and learning 
 - 🔭 **Working on** full-stack projects and modern web apps  
 - 🌱 **Exploring** TypeScript, Next.js, and backend APIs  
 - 💬 **Ask me about** React, Node.js, JavaScript/TypeScript, or web development  
-- 📫 **Reach me:** iamjaisuthar@gmail.com  
+- 📫 **Reach me:** <a href="mailto:iamjaisuthar@gmail.com" target="_blank" rel="noopener noreferrer">iamjaisuthar@gmail.com</a>  
 
 </td>
 <td width="40%">
@@ -53,12 +53,12 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Certificate-Web](https://github.com/QuantabytePK/Certificate-Web) | Certificate generation & management web app | TypeScript |
-| [e-commerce-store](https://github.com/JaiKumarSuther/e-commerce-store) | E-commerce storefront & cart | JavaScript |
-| [tailwind-nextjs-practice](https://github.com/JaiKumarSuther/tailwind-nextjs-practice) | Next.js + Tailwind UI practice | TypeScript |
-| [roseheavenlysalon-backend](https://github.com/JaiKumarSuther/roseheavenlysalon-backend) | Backend for salon booking / management | JavaScript |
+| <a href="https://github.com/QuantabytePK/Certificate-Web" target="_blank" rel="noopener noreferrer">Certificate-Web</a> | Certificate generation & management web app | TypeScript |
+| <a href="https://github.com/JaiKumarSuther/e-commerce-store" target="_blank" rel="noopener noreferrer">e-commerce-store</a> | E-commerce storefront & cart | JavaScript |
+| <a href="https://github.com/JaiKumarSuther/tailwind-nextjs-practice" target="_blank" rel="noopener noreferrer">tailwind-nextjs-practice</a> | Next.js + Tailwind UI practice | TypeScript |
+| <a href="https://github.com/JaiKumarSuther/roseheavenlysalon-backend" target="_blank" rel="noopener noreferrer">roseheavenlysalon-backend</a> | Backend for salon booking / management | JavaScript |
 
-<p align="center"><i>More on <a href="https://github.com/JaiKumarSuther">github.com/JaiKumarSuther</a></i></p>
+<p align="center"><i>More on <a href="https://github.com/JaiKumarSuther" target="_blank" rel="noopener noreferrer">github.com/JaiKumarSuther</a></i></p>
 
 ---
 
@@ -149,22 +149,22 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ## 📊 GitHub Stats & Activity
 
+> **If Stats or Top Langs don’t show:** Add the <a href="https://github.com/marketplace/actions/github-readme-stats-action" target="_blank" rel="noopener noreferrer">GitHub Readme Stats workflow</a> to your profile repo as `.github/workflows/readme-stats.yml`, then <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">run it once</a> (Actions → "Update README cards" → Run workflow). It will create the SVG files so these images load.
+
 <div align="center">
 
-<!-- Stats cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=JaiKumarSuther&theme=react&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=61DAFB" height="165" alt="Stats"/>
+<img src="./profile/stats.svg" height="165" alt="Stats"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/>
+
+<img src="./profile/top-langs.svg" height="165" alt="Top Langs"/>
 
 </div>
 
 <div align="center">
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiKumarSuther&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="165" alt="Top Langs"/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=react&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+<!-- Trophy: external service; if it doesn't load, the action-based stats above will still work -->
+<img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -177,7 +177,7 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 </div>
 
-<!-- Snake eating contributions - optional: add workflow to repo to generate -->
+<!-- Snake: add the "snk" workflow to your profile repo (see <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">platane/snk</a>) to generate this SVG -->
 <div align="center">
 
 ### 🐍 Contribution snake
@@ -197,8 +197,8 @@ Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel fr
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jai-kumar-7462a1260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:iamjaisuthar@gmail.com"><img src="https://img.shields.io/badge/Email-iamjaisuthar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/jai-kumar-7462a1260/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:iamjaisuthar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-iamjaisuthar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -212,6 +212,6 @@ Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel fr
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:7C3AED&height=80&section=footer&fontSize=14&fontColor=fff" width="100%" alt="Footer"/>
 
-**Thanks for visiting my profile!** ⭐
+<a href="https://github.com/JaiKumarSuther" target="_blank" rel="noopener noreferrer"><b>Thanks for visiting my profile!</b></a> ⭐
 
 </div>
