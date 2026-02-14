@@ -319,13 +319,6 @@
 <!-- Background Effects -->
 <div class="matrix-bg"></div>
 
-<!-- Floating Particles -->
-<script>
-for(let i = 0; i < 50; i++) {
-  document.write('<div class="particle" style="left: ' + Math.random() * 100 + '%; animation-delay: ' + Math.random() * 10 + 's;"></div>');
-}
-</script>
-
 <!-- Animated Header with 3D effect -->
 <div class="animated-border" style="margin-bottom: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:61DAFB,25:8B5CF6,50:7C3AED,75:8B5CF6,100:61DAFB&height=250&section=header&text=Jai%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=22&descAlignY=55" width="100%" class="glow-text floating"/>
@@ -848,7 +841,7 @@ for(let i = 0; i < 50; i++) {
 
     <!-- Support/Sponsor Button -->
     <a href="https://github.com/sponsors/JaiKumarSuther" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" class="tech-stack-item pulse"/>
+      <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA" class="tech-stack-item pulse"/>
     </a>
   </div>
 </div>
@@ -862,6 +855,7 @@ for(let i = 0; i < 50; i++) {
 
 <div align="center">
   <div class="profile-card" style="max-width: 500px; margin: 20px auto; padding: 20px;">
+    <!-- Replace YOUR_SPOTIFY_ID with your Spotify username from your profile URL -->
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="100%" class="tech-stack-item"/>
   </div>
 </div>
@@ -875,7 +869,7 @@ for(let i = 0; i < 50; i++) {
 
 <div align="center">
   <div class="profile-card" style="margin: 30px auto; max-width: 800px;">
-    <img src="https://github.com/JaiKumarSuther/JaiKumarSuther/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/JaiKumarSuther/JaiKumarSuther/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
   </div>
 </div>
 
@@ -1034,7 +1028,7 @@ for(let i = 0; i < 50; i++) {
     <p>or</p>
     
     <a href="https://github.com/sponsors/JaiKumarSuther" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" class="tech-stack-item bounce"/>
+      <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA" class="tech-stack-item bounce"/>
     </a>
   </div>
 </div>
@@ -1091,21 +1085,11 @@ for(let i = 0; i < 50; i++) {
     <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" width="100%"/>
   </div>
 
-  <!-- Live Timestamp -->
+  <!-- Last Updated (static - GitHub does not run JavaScript) -->
   <div class="profile-card" style="margin: 20px auto; padding: 10px; display: inline-block;">
     <p>
       <span class="wave">🕐</span>
-      Last Updated: 
-      <script>
-        document.write(new Date().toLocaleDateString('en-US', { 
-          weekday: 'long', 
-          year: 'numeric', 
-          month: 'long', 
-          day: 'numeric',
-          hour: '2-digit',
-          minute: '2-digit'
-        }));
-      </script>
+      Last Updated: February 2025
     </p>
   </div>
 </div>
