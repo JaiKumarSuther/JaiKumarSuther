@@ -163,30 +163,16 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70%" height="2"/></p>
 
 <div align="center">
 
-<a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Stats"><img src="./profile/stats.svg" height="165" alt="Stats"/></a>
 <a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Streak"><img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/></a>
-<a href="https://github.com/JaiKumarSuther?tab=repositories" target="_blank" rel="noopener noreferrer" title="Top Langs"><img src="./profile/top-langs.svg" height="165" alt="Top Langs"/></a>
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/JaiKumarSuther?tab=achievements" target="_blank" rel="noopener noreferrer" title="Trophies"><img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/></a>
-
-</div>
-
-<!-- Contribution snake - animated -->
-<div align="center">
-  <img src="./output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%"/>
-</div>
-
-<!-- Activity graph -->
 <div align="center">
 
 ### 📈 Contribution graph
@@ -194,8 +180,6 @@ I'm a **developer** who loves building full-stack web applications and learning 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiKumarSuther&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
-
-<div align="center"><sub>Run <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Actions → Update README cards</a> & <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Generate Snake</a> once. Updates daily.</sub></div>
 
 ---
 
