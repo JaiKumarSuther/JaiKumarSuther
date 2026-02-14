@@ -149,7 +149,7 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ## 📊 GitHub Stats & Activity
 
-> **If Stats or Top Langs don’t show:** Add the <a href="https://github.com/marketplace/actions/github-readme-stats-action" target="_blank" rel="noopener noreferrer">GitHub Readme Stats workflow</a> to your profile repo as `.github/workflows/readme-stats.yml`, then <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">run it once</a> (Actions → "Update README cards" → Run workflow). It will create the SVG files so these images load.
+> **Stats & Top Langs:** The public stats site is paused. To show them, add the <a href="https://github.com/marketplace/actions/github-readme-stats-action" target="_blank" rel="noopener noreferrer">GitHub Readme Stats workflow</a> to your profile repo (copy <code>readme-stats-workflow.yml</code> from your Downloads folder as <code>.github/workflows/readme-stats.yml</code>), then <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">run it once</a>. The cards will then load from your repo.
 
 <div align="center">
 
@@ -163,7 +163,6 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 <div align="center">
 
-<!-- Trophy: external service; if it doesn't load, the action-based stats above will still work -->
 <img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/>
 
 </div>
@@ -177,12 +176,9 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 </div>
 
-<!-- Snake: add the "snk" workflow to your profile repo (see <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">platane/snk</a>) to generate this SVG -->
 <div align="center">
 
-### 🐍 Contribution snake
-
-<img src="https://raw.githubusercontent.com/JaiKumarSuther/JaiKumarSuther/output/github-contribution-grid-snake.svg" width="100%" alt="Snake"/>
+<sub>Add a contribution snake with <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">platane/snk</a></sub>
 
 </div>
 
@@ -206,7 +202,7 @@ Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel fr
 <div align="center">
 
 <!-- Visitor count -->
-<img src="https://visitcount.itsvg.in/api?id=JaiKumarSuther&icon=6&color=0" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=JaiKumarSuther&color=0&label=Profile%20views" alt="Profile views"/>
 
 <br/>
 
