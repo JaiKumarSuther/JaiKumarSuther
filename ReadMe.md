@@ -1,13 +1,24 @@
 <div align="center">
 
-# Hi, I'm Jai Kumar 👋
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:7C3AED&height=180&section=header&text=Jai%20Kumar&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" alt="Header"/>
 
-**Full-Stack Developer** · Building web apps with React, Next.js, Node.js & more
+<!-- Wave animation + intro -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e4742-7302-4a7d-9e5f-8b2dfa2e1b6a.gif" width="36" height="36"/> **Hi, I'm Jai Kumar**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaiKumarSuther)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-kumar-7462a1260/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20885318)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjaisuthar@gmail.com)
+<!-- Typing animation - cycles through taglines -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/demolab/demo?font=Fira+Code&weight=600&size=22&duration=3500&pause=2000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Node.js+%7C+TypeScript+%7C+Web+Apps;Building+clean%2C+functional+software)](https://github.com/JaiKumarSuther)
+
+<!-- Social badges -->
+<p>
+  <a href="https://github.com/JaiKumarSuther"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/jai-kumar-7462a1260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/20885318"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:iamjaisuthar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="2"/>
 
 </div>
 
@@ -15,12 +26,26 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 I'm a **developer** who loves building full-stack web applications and learning new technologies. I work across the stack—from React and Next.js on the frontend to Node.js and various databases on the backend—and enjoy turning ideas into clean, functional software.
 
-- 🔭 Working on full-stack projects and modern web apps  
-- 🌱 Exploring TypeScript, Next.js, and backend APIs  
-- 💬 Ask me about **React**, **Node.js**, **JavaScript/TypeScript**, or **web development**  
-- 📫 Reach me: **iamjaisuthar@gmail.com**
+- 🔭 **Working on** full-stack projects and modern web apps  
+- 🌱 **Exploring** TypeScript, Next.js, and backend APIs  
+- 💬 **Ask me about** React, Node.js, JavaScript/TypeScript, or web development  
+- 📫 **Reach me:** iamjaisuthar@gmail.com  
+
+</td>
+<td width="40%">
+
+<!-- Small animated coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-401f-4149-ba7f-7675d6b7f2e2.gif" width="220" alt="Coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,13 +58,16 @@ I'm a **developer** who loves building full-stack web applications and learning 
 | [tailwind-nextjs-practice](https://github.com/JaiKumarSuther/tailwind-nextjs-practice) | Next.js + Tailwind UI practice | TypeScript |
 | [roseheavenlysalon-backend](https://github.com/JaiKumarSuther/roseheavenlysalon-backend) | Backend for salon booking / management | JavaScript |
 
-*More on [github.com/JaiKumarSuther](https://github.com/JaiKumarSuther)*
+<p align="center"><i>More on <a href="https://github.com/JaiKumarSuther">github.com/JaiKumarSuther</a></i></p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
+<details open>
+<summary><b>Frontend</b></summary>
+<p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,14 +84,26 @@ I'm a **developer** who loves building full-stack web applications and learning 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Backend & Runtime
+</p>
+</details>
+
+<details>
+<summary><b>Backend & Runtime</b></summary>
+<p>
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-### Databases & ORMs
+</p>
+</details>
+
+<details>
+<summary><b>Databases & ORMs</b></summary>
+<p>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,37 +114,75 @@ I'm a **developer** who loves building full-stack web applications and learning 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-### DevOps & Hosting
+</p>
+</details>
+
+<details>
+<summary><b>DevOps & Design</b></summary>
+<p>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-### Data & ML (Python)
+</p>
+</details>
+
+<details>
+<summary><b>Data & ML (Python)</b></summary>
+<p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### Design & Media
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+</p>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=JaiKumarSuther&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<!-- Stats cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=JaiKumarSuther&theme=react&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=61DAFB" height="165" alt="Stats"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=dark&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiKumarSuther&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+<div align="center">
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiKumarSuther&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="165" alt="Top Langs"/>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=react&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+
+</div>
+
+<!-- Activity graph (contribution graph style) -->
+<div align="center">
+
+### 📈 Contribution graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiKumarSuther&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<!-- Snake eating contributions - optional: add workflow to repo to generate -->
+<div align="center">
+
+### 🐍 Contribution snake
+
+<img src="https://raw.githubusercontent.com/JaiKumarSuther/JaiKumarSuther/output/github-contribution-grid-snake.svg" width="100%" alt="Snake"/>
 
 </div>
 
@@ -112,17 +190,28 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ## 🤝 Let's Connect
 
-Open to collaboration, open source, and new opportunities. Feel free to reach out!
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-kumar-7462a1260/)
-[![Email](https://img.shields.io/badge/Email-iamjaisuthar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjaisuthar@gmail.com)
+Open to <b>collaboration</b>, <b>open source</b>, and new opportunities. Feel free to reach out!
+
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jai-kumar-7462a1260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:iamjaisuthar@gmail.com"><img src="https://img.shields.io/badge/Email-iamjaisuthar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=JaiKumarSuther&icon=0&color=0)
+<!-- Visitor count -->
+<img src="https://visitcount.itsvg.in/api?id=JaiKumarSuther&icon=6&color=0" alt="Visitors"/>
 
-**Thanks for visiting my profile!**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:7C3AED&height=80&section=footer&fontSize=14&fontColor=fff" width="100%" alt="Footer"/>
+
+**Thanks for visiting my profile!** ⭐
 
 </div>
