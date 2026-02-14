@@ -149,23 +149,23 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 ## 📊 GitHub Stats & Activity
 
-> **Stats & Top Langs:** The public stats site is paused. To show them, add the <a href="https://github.com/marketplace/actions/github-readme-stats-action" target="_blank" rel="noopener noreferrer">GitHub Readme Stats workflow</a> to your profile repo (copy <code>readme-stats-workflow.yml</code> from your Downloads folder as <code>.github/workflows/readme-stats.yml</code>), then <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">run it once</a>. The cards will then load from your repo.
-
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" alt="Stats"/>
+<a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Stats"><img src="./profile/stats.svg" height="165" alt="Stats"/></a>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/>
+<a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Streak"><img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/></a>
 
-<img src="./profile/top-langs.svg" height="165" alt="Top Langs"/>
+<a href="https://github.com/JaiKumarSuther?tab=repositories" target="_blank" rel="noopener noreferrer" title="Top Langs"><img src="./profile/top-langs.svg" height="165" alt="Top Langs"/></a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/>
+<a href="https://github.com/JaiKumarSuther?tab=achievements" target="_blank" rel="noopener noreferrer" title="Trophies"><img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/></a>
 
 </div>
+
+<div align="center"><sub>Run <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Actions → Update README cards</a> once to generate Stats & Top Langs. Cards update daily.</sub></div>
 
 <!-- Activity graph (contribution graph style) -->
 <div align="center">
