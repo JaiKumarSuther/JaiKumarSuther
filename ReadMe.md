@@ -151,19 +151,12 @@ I'm a **developer** who loves building full-stack web applications and learning 
 
 <div align="center">
 
-<a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Stats"><img src="./profile/stats.svg" height="165" alt="Stats"/></a>
 
 <a href="https://github.com/JaiKumarSuther?tab=overview" target="_blank" rel="noopener noreferrer" title="Streak"><img src="https://nirzak-streak-stats.vercel.app/?user=JaiKumarSuther&theme=react&hide_border=false" height="165" alt="Streak"/></a>
 
-<a href="https://github.com/JaiKumarSuther?tab=repositories" target="_blank" rel="noopener noreferrer" title="Top Langs"><img src="./profile/top-langs.svg" height="165" alt="Top Langs"/></a>
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/JaiKumarSuther?tab=achievements" target="_blank" rel="noopener noreferrer" title="Trophies"><img src="https://github-profile-trophy.vercel.app/?username=JaiKumarSuther&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="Trophies"/></a>
-
-</div>
 
 <div align="center"><sub>Run <a href="https://github.com/JaiKumarSuther/JaiKumarSuther/actions" target="_blank" rel="noopener noreferrer">Actions → Update README cards</a> once to generate Stats & Top Langs. Cards update daily.</sub></div>
 
